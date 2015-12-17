@@ -1,0 +1,4 @@
+BASENAME=`basename $1`
+cd `dirname $1`
+
+ln -s `pwd`/$BASENAME $HOME/$BASENAME
