@@ -9,3 +9,10 @@ set expandtab
 set showmatch
 
 set clipboard=unnamed
+
+set noswapfile
+
+set ignorecase
+set smartcase
+
+set autoread
